@@ -1,0 +1,14 @@
+{
+  "section": "excelvba",
+  "category": "powerquery",
+  "n": 2,
+  "title": "Excel Report Templates",
+  "desc": "Collection of professional Excel workbook templates — operational reports, team analytics, financial tools and SAP-integrated extracts. Sanitised for public use.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Excel-Report-Templates",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Excel-Report-Templates/blob/main/README.md",
+  "tags": [
+    "excel",
+    "vba",
+    "reporting"
+  ]
+}
